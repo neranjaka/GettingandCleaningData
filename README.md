@@ -5,7 +5,8 @@ and gyroscopes of Samsung Galaxy S2 phone of give human sample
 Given that the requirments are met "run_analysis.R" will generate a tidy data set called "idy_data.txt" from the given data.
 
 ##initializing
-Step 1 :- Download data from the source - "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "
+Step 1 :- Download data from the source - "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+
 Step 2 :- Copy all the data files into a single folder. Following are the names of those data files.
   1. activity_labels
   2. features
